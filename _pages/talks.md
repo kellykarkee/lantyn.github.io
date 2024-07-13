@@ -7,8 +7,10 @@ nav: true
 nav_order: 11
 ---
 
+
 - 2023-12-19 [CUHK] A Macroscopic Description of Gauging — as a special Morita equivalence [[slides]](assets/slides/gauging.pdf)
 - 2023-07-26 [ICBS] Quantum Current[[koushare]](https://www.koushare.com/live/details/19970?vid=77727)[[slides]](assets/slides/QuantumCurrent.pdf)
+- 2022-03-16 [BIMSA] Higher Dimensional Topological Order Higher Category and A Classification in 3+1D [[slides]](assets/slides/HigherTopBIMSA.pdf)
 - 2021-12-14 [BIMSA] The Modular Extension Characterization of SPT/SET phases [[bilibili]](https://www.bilibili.com/video/BV1y44y1E7rR/)[[slides]](/assets/slides/ME.pdf)
 - 2021-08-11 [TPM] Matrix Formulation for Non-abelian Family [[koushare]](https://www.koushare.com/video/details/13814)[[slides]](assets/slides/HigherTopBIMSA.pdf)[[youtube]](https://www.youtube.com/watch?v=h8ZgeW8TJoE)[[slides]](assets/slides/nab.pdf)
 - 2021-08-16 [CMSA] Higher Dimensional Topological Order Higher Category and A Classification in 3+1D [[koushare]](https://www.koushare.com/video/details/13876)[[youtube]](https://www.youtube.com/watch?v=naQiUDdZTYA)[[slides]](assets/slides/HigherTop.pdf)
